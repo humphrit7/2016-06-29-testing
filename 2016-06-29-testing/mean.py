@@ -1,3 +1,5 @@
+from __future__ import division
+
 def mean(num_list):
     """Calculate the mean of a list of numbers
 
